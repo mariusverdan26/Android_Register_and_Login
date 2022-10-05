@@ -1,4 +1,4 @@
-package com.capstone.androidregisterndlogin;
+package com.capstone.androidregisterandlogin;
 
 import android.content.Context;
 
